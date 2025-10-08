@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 22516cda299daff42b01164d450ad7d5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.003
+    second: {fileID: 2100000, guid: 55b58538da271cb4489d55a1068124db, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Khronos glTF Blender I/O v4.5.48
+
+    <b>Version:
+    </b>2.0
+
+    
+
+    <b>Extras: </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -8771166627424403242, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 536236712326548958, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 4258872088350408149, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: -2098388626680880503, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 4486999849131939671, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 8175441884799897835, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 72701994963290463, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: -7120440099516517148, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 3736934573812994976, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: -8171894812058819947, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  textures:
+  - {fileID: 9025154579595282861, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: 6493484883717303215, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: -1145946917828030126, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  - {fileID: -4289790088155464361, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 1
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations:
+  - name: FishLamp_Off
+  - name: FishLamp_On
+  _extensions:
+  - name: KHR_materials_clearcoat
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_transmission
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: 9025154579595282861, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 6493484883717303215, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -1145946917828030126, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -4289790088155464361, guid: 22516cda299daff42b01164d450ad7d5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []

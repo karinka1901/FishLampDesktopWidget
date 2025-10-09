@@ -1,0 +1,16 @@
+Fish Lamp User Manual
+====================
+
+Controls:
+- Mouse: Interact with the lamp button
+- Right-click + drag: Rotate the lamp 
+- Left-click + drag: Move the lamp
+- Right-click + mouse scroll wheel: Scale the lamp
+
+System Tray:
+- Select "Quit" to exit the application
+- Select "Reset" to reset rotation, scale and position of the widget
+- Select "Move to Screen" to move the widget to a different monitor
+
+Troubleshooting:
+- If the app becomes unresponsive, use Task Manager

@@ -8,5 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FishLampScene.unity
     guid: 79506f262d1d3ae4db8541de8a8d47c6
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 596520a546ecd384291c2de79f7db9cb, type: 3}
   m_UseUCBPForAssetBundles: 0

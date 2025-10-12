@@ -4,14 +4,13 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 [![Download from Itch.io](https://img.shields.io/badge/Download%20from-Itch.io-FF69B4?logo=itch.io&logoColor=white)](https://karinka1901.itch.io/fishlampdesktopwidget?secret=fNROv30Bwg3XUZ8IpDN5fM4ICdI)
 
-### 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 
-# 𓇼 ⋆.˚ 𓆝 Fish Lamp Desktop Widget 𓆞 ⋆.˚ 𓇼
+# $${\color{cyan} 𓇼 ⋆.˚ 𓆝 \space Fish \space Lamp \space Desktop \space Widget \space 𓆞 ⋆.˚ 𓇼}$$
 
 #### Interactive fish lamp widget for Windows
 
 ![2025-10-1022-06-36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/525389b0-75bc-4684-866e-9a16b0f553eb)
 
-### 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 
+###  𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 
 ### Demo 
 
 https://github.com/user-attachments/assets/ce70757d-c690-45e9-aede-43a37bebb675

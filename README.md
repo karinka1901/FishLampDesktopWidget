@@ -2,7 +2,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
-[![Download from Itch.io](https://img.shields.io/badge/Download%20from%20Itch.io-FF69B4?logo=itch.io&logoColor=white)](https://karinka1901.itch.io/fishlampdesktopwidget?secret=fNROv30Bwg3XUZ8IpDN5fM4ICdI)
+[![Download from Itch.io](https://img.shields.io/badge/Download%20from-Itch.io-FF69B4?logo=itch.io&logoColor=white)](https://karinka1901.itch.io/fishlampdesktopwidget?secret=fNROv30Bwg3XUZ8IpDN5fM4ICdI)
 
 ### 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 
 # 𓇼 ⋆.˚ 𓆝 Fish Lamp Desktop Widget 𓆞 ⋆.˚ 𓇼

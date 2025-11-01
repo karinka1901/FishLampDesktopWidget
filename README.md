@@ -8,12 +8,14 @@
 
 #### Interactive fish lamp widget for Windows
 
-![2025-10-1022-06-36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/525389b0-75bc-4684-866e-9a16b0f553eb)
+![ezgif-69de3b02bfd407](https://github.com/user-attachments/assets/a39d2c84-8d61-45fc-a9fa-434123311a7f)
+
 
 ###  𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 
 ### Demo 
 
-https://github.com/user-attachments/assets/ce70757d-c690-45e9-aede-43a37bebb675
+![ezgif-6041807a28565a](https://github.com/user-attachments/assets/f5c0edb7-7255-4490-bb86-4e010c37591f)
+
 
 ### 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝 𓆟 𓆞 𓆝 𓆟 𓆞𓆝  
 ### [System Tray Functionality](https://github.com/karinka1901/FishLampTrayManager)
